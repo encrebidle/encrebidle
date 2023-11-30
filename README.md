@@ -16,13 +16,7 @@ With a keen eye for detail, I focus on ensuring the highest quality software pos
 - 💬 Ask me about Arts, AI, Blockchain, and good movies/series suggestions.
 - 📫 How to reach me: encrebidle@outlook.com | hello@encrebidle.com
 - ⚡ Fun fact: One can fake bravery when he/she is terrified, but that's still bravery. Do the same when you are feeling unmotivated, it works.
-- Jack of all trades.
-- I see, I draw.
-- I feel, I dance.
-- I think, I code.
-- I grow, I travel.
-- I need, I build.
-- You judge, IDGAF.
+- Jack of all trades.  I see, I draw. I feel I dance. I think I code. I grow I travel. I need I build. You judge, IDGAF.
 
 
 <!--
