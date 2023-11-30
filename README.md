@@ -1,10 +1,38 @@
-## Hi, I am Atulya. 
 
-Jack of all trades. 
-I see, I draw.
-I feel, I dance.
-I think, I code.
-I grow, I travel.
-I need, I build.
-You judge, IDGAF.
+## Hey 👋, I'm [Atulya!](https://github.com/encrebidle/)
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/encrebidle/)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://encrebidle.com)
+
+### Glad to see you here! &nbsp; 
+
+I'm an enthusiastic Data Engineer 👨🏻‍💻 currently working for [Micron Technology](https://micron.com) ⚡. I have nothing significant on GitHub because I mostly write code that makes money. As a problem solver, I thrive on challenges and have a diverse skill set in Full Stack Development, Blockchain, and AI. I excel at translating client requirements into features and have exceptional communication skills, enabling me to quickly understand other people's perspectives without them having to repeat themselves.
+
+With a keen eye for detail, I focus on ensuring the highest quality software possible, without losing sight of the bigger picture.
+
+- 🔭 I’m currently working on Diversity Glitch | foundation.app
+- 🌱 I’m currently learning SVG attributes for reactive NFTs
+- 👯 I’m looking to collaborate on NFT Projects
+- 💬 Ask me about Arts, AI, Blockchain, and good movies/series suggestions.
+- 📫 How to reach me: encrebidle@outlook.com | hello@encrebidle.com
+- ⚡ Fun fact: One can fake bravery when he/she is terrified, but that's still bravery. Do the same when you are feeling unmotivated, it works.
+- Jack of all trades.
+- I see, I draw.
+- I feel, I dance.
+- I think, I code.
+- I grow, I travel.
+- I need, I build.
+- You judge, IDGAF.
+
+
+<!--
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
