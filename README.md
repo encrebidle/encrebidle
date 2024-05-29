@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/encrebidle/)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://encrebidle.com)
 
-[![Website Badge](https://github.com/encrebidle/encrebidle-certificate-showcase/blob/main/Certificates/google-advanced-data-analytics-certificate.png)](https://www.credly.com/badges/270556b4-0a70-42a3-bc29-573cabe58439/public_url)
+[![Website Badge](https://github.com/encrebidle/encrebidle-certificate-showcase/blob/main/Certificates/google-advanced-data-analytics-certificate%20(1).png)](https://www.credly.com/badges/270556b4-0a70-42a3-bc29-573cabe58439/public_url)
 
 ### Glad to see you here! &nbsp; 
 
