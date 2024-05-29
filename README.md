@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/encrebidle/)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://encrebidle.com)
 
+[![Website Badge](https://www.credly.com/badges/270556b4-0a70-42a3-bc29-573cabe58439/public_url)](https://www.credly.com/badges/270556b4-0a70-42a3-bc29-573cabe58439/public_url)
+
 ### Glad to see you here! &nbsp; 
 
 I'm an enthusiastic Data Engineer 👨🏻‍💻 currently working for [Micron Technology](https://micron.com) ⚡. I have nothing significant on GitHub because I mostly write code that makes money. As a problem solver, I thrive on challenges and have a diverse skill set in Full Stack Development, Blockchain, and AI. I excel at translating client requirements into features and have exceptional communication skills, enabling me to quickly understand other people's perspectives without them having to repeat themselves.
