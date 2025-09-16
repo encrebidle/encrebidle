@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; 
 
-I'm an enthusiastic Data Engineer 👨🏻‍💻 currently working for [Micron Technology](https://micron.com) ⚡. I have nothing significant on GitHub because I mostly write code that makes money. As a problem solver, I thrive on challenges and have a diverse skill set in Full Stack Development, Blockchain, and AI. I excel at translating client requirements into features and have exceptional communication skills, enabling me to quickly understand other people's perspectives without them having to repeat themselves.
+I'm an enthusiastic Data Professional 👨🏻‍💻 currently working for [Micron Technology](https://micron.com) ⚡. I have nothing significant on GitHub because I mostly write code that makes money. As a problem solver, I thrive on challenges and have a diverse skill set in Full Stack Development, Blockchain, and AI. I excel at translating client requirements into features and have exceptional communication skills, enabling me to quickly understand other people's perspectives without them having to repeat themselves.
 
 With a keen eye for detail, I focus on ensuring the highest quality software possible, without losing sight of the bigger picture.
 
